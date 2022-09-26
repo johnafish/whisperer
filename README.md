@@ -1,6 +1,6 @@
 # Whisperer
 
-This really messy script combines whisper from OpenAI and a pytorch tutorial on forced alignment to generate word-level .srt captions
+This really messy script combines [whisper](https://github.com/openai/whisper) from OpenAI and a [pytorch tutorial](https://pytorch.org/tutorials/intermediate/forced_alignment_with_torchaudio_tutorial.html) on forced alignment to generate word-level .srt captions
 
 ## Usage
 
